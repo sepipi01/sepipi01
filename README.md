@@ -1,6 +1,26 @@
-## Hi there 👋
-Seth here!!! A Computer Information Systems Networking and Cybersecurity major at Wayne State College.
-I have taken Networking I,Programming Fundamentals I (C++),Web development, and Principles in Computing and Information Systems.
-I would want to become a Cybersecurity analyst after my grad studies at Fordham University in NY my Dad's old school.
-I hope to become one of the best programmers and network admin in the world.
-Welcome to My World of Software and Networking.
+# Hello! I'm Seth PIpim 👋
+
+## About Me
+I'm a Computer Information Systems Networking and Cybersecurity major with a passion for Network Admin. With about a year of experience, I have worked on projects involving Routing and Trunking.
+
+## Goals and Aspirations
+I aim to go to grad school at Fordham University in NY. I'm always looking to collaborate on exciting projects and expand my knowledge and skills.
+
+## Projects
+  - *Project 1:* [https://github.com/RivJams/Account] - This is a Banking app.
+  - *Project 2:* [https://github.com/sepipi01/Math_tutorV3_Seth] - This project display fun facts about Mathematics.
+
+## Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+## Contact Me
+- [LinkedIn](https://gh.linkedin.com/in/seth-pipim-7a8279319)
+- [GitHub](https://github.com/sepipi01)
+- [Email](mailto:sethpipim17@gmail.com)
+
+## Fun Facts
+- I love hiking and exploring nature. 🌲
+- I'm a coffee enthusiast. ☕
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
