@@ -9,6 +9,8 @@ I aim to go to grad school at Fordham University in NY. I'm always looking to co
 ## Projects
   - *Project 1:* [https://github.com/RivJams/Account] - This is a Banking app.
   - *Project 2:* [https://github.com/sepipi01/Math_tutorV3_Seth] - This project display fun facts about Mathematics.
+  - *Project 3:* [https://github.com/sepipi01/JavaFX_Calculator] - This project display fun facts about Scientific Calculator.
+
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-blue)
