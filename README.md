@@ -25,6 +25,7 @@ I aim to go to grad school at Fordham University in NY. I'm always looking to co
 ![Opreating Systems](https://img.shields.io/badge/OperatingSystems-red)
 ![C++](https://img.shields.io/badge/C++-violet)
 ![Python](https://img.shields.io/badge/Python-black)
+![SQL](https://img.shields.io/badge/SQL-brown)
 
 ## Contact Me
 - [LinkedIn](https://gh.linkedin.com/in/seth-pipim-7a8279319)
