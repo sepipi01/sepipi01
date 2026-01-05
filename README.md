@@ -19,6 +19,12 @@ I aim to go to grad school at Fordham University in NY. I'm always looking to co
 ![Java](https://img.shields.io/badge/Java-green)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Html](https://img.shields.io/badge/Html-red)
+![CSS](https://img.shields.io/badge/Css-purple)
+![Cisco](https://img.shields.io/badge/Cisco-gold)
+![Opreating Systems](https://img.shields.io/badge/OperatingSystems-red)
+![C++](https://img.shields.io/badge/C++-violet)
+![Python](https://img.shields.io/badge/Python-black)
 
 ## Contact Me
 - [LinkedIn](https://gh.linkedin.com/in/seth-pipim-7a8279319)
