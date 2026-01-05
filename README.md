@@ -16,8 +16,7 @@ I aim to go to grad school at Fordham University in NY. I'm always looking to co
 
 
 ## Skills
-![Java](<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8e467482-449e-4e01-aff8-a148bc75ebeb" />
-)
+![Java](https://img.shields.io/badge/Java-green)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
