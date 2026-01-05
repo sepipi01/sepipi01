@@ -10,9 +10,14 @@ I aim to go to grad school at Fordham University in NY. I'm always looking to co
   - *Project 1:* [https://github.com/RivJams/Account] - This is a Banking app.
   - *Project 2:* [https://github.com/sepipi01/Math_tutorV3_Seth] - This project display fun facts about Mathematics.
   - *Project 3:* [https://github.com/sepipi01/JavaFX_Calculator] - This project display fun facts about Scientific Calculator.
+  - This lab includes building a network that involves integrating multiple networking key concepts which covered
+    Networking Fundamentals, routing, switching, security, and WAN technologies. The lab helped test skills in configuring
+    and troubleshooting a multi-branch office network. SOHO Network Design Configuration, and Troubleshooting
 
 
 ## Skills
+![Java](<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8e467482-449e-4e01-aff8-a148bc75ebeb" />
+)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
