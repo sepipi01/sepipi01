@@ -1,7 +1,31 @@
 # Hello! I'm Seth PIpim 👋
 
 ## About Me
-I'm a Computer Information Systems Networking and Cybersecurity major with a passion for Network Admin. With about a year of experience, I have worked on projects involving Routing and Trunking.
+I'm a Computer Information Systems Networking and Cybersecurity major with a passion for Network Admin.I have  
+● Gained hands-on experience in front-end and back-end development using technologies like HTML, 
+CSS, JavaScript, React, Node.js, and SQL.
+● Built real-world projects from scratch, focusing on practical coding skills and collaboration in team 
+environments. Developed a professional portfolio showcasing full-stack applications.
+Cisco Certified Network Associate | Networking 1 August 2024 – December 2024
+● Acquired comprehensive knowledge of networking fundamentals, including IP addressing, routing, 
+and switching, enabling the effective design, implementation, and troubleshooting of small-tomedium enterprise networks.
+● Demonstrated proficiency in configuring, managing, and securing Cisco network devices, ensuring 
+optimal performance and compliance with industry best practices.
+Cisco Certified Network Associate | Networking 2 January 2025 – May 2025
+• Gained solid expertise in switching, routing and wireless technologies, including VLANs, STP, static 
+routing, and OSPF, which helped in troubleshooting of modern enterprise network environments.
+• Developed hands-on experience in configuring and securing Cisco switches, routers, and wireless 
+networks, ensuring reliable connectivity, strong security and adherence to industry-standard 
+networking practices.
+Cisco Certified Network Associate | Networking 3 August 2025 – December 2025
+• Strengthened my understanding of enterprise-level networking by working with advanced routing, 
+redundancy, and WAN technologies, enabling the design and support of scalable, network 
+infrastructures. 
+Cisco Certified Network Associate | Computer Hardware and Operating Systems August 2025 – December
+2025
+• Developed strong foundational skills in computer hardware, including component identification, 
+system assembly, troubleshooting, and performance optimization, enabling effective support of 
+end‑user and enterprise devices
 
 ## Goals and Aspirations
 I aim to go to grad school at Fordham University in NY. I'm always looking to collaborate on exciting projects and expand my knowledge and skills.
