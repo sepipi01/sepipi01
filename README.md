@@ -35,7 +35,7 @@ system assembly, troubleshooting, and performance optimization, enabling effecti
 end‑user and enterprise devices
 
 ## Goals and Aspirations
-I aim to go to grad school at Fordham University in NY. I'm always looking to collaborate on exciting projects and expand my knowledge and skills.
+I aim to go to grad school at Fordham University in NY and Howard Uiversity Washionton DC. I'm always looking to collaborate on exciting projects and expand my knowledge and skills.
 
 ## Projects
   - *Project 1:* [https://github.com/RivJams/Account] - This is a Banking app.
